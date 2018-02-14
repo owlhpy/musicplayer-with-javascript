@@ -1,7 +1,0 @@
-D:\vsproject\计算器\计算器\bin\Debug\计算器.exe
-D:\vsproject\计算器\计算器\bin\Debug\计算器.pdb
-D:\vsproject\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
-D:\vsproject\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
-D:\vsproject\计算器\计算器\obj\x86\Debug\计算器.csproj.GenerateResource.Cache
-D:\vsproject\计算器\计算器\obj\x86\Debug\计算器.exe
-D:\vsproject\计算器\计算器\obj\x86\Debug\计算器.pdb
