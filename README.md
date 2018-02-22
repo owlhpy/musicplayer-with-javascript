@@ -1,5 +1,3 @@
-# Ordering
-an online order food website with bootstrap and php
-### 在线浏览地址：http://hpyan.dev.dxdc.net/db1/index.php
-这个网站使用bootstrap框架，运用ajax异步得到数据，后台技术使用php+mysql实现。实现了简单的用户在线点餐功能以及后台管理账单功能。
-数据库E-R图和表的实现在文档中有写。
+##javascript + html5 实现的音乐播放器
+###在线地址：http://hpyan.dev.dxdc.net/db2/login.php
+用javascript和css重写了audio样式，使其更美观，网站用的本地音乐资源，没有使用网上的资源，所以只有少数几首歌。实现了收藏、播放、暂停、点击进度条、查看歌手资料、专辑资料等功能，使用php+mysql后台处理。
